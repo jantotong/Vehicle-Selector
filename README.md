@@ -1,8 +1,9 @@
 # CS157A-Summer-Project
-#Data Base Management 
+
+Interactive vehicle selection web app. 
+
 
 Team Member: 
-
 Jan To Tong
 Justin Nguyen
 Rabin Gurung
